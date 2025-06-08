@@ -38,4 +38,12 @@ class Route {
         const points = [0, 1, 2, 4, 7, 10, 15];
         return points[longueur] || 0;
     }
+
+
+
+    initialiseRoutes() {
+        this.routes.push(new Route(this.rechercheVille("Vancouver"), this.rechercheVille("Seattle"), "gray"));
+        this.routes.push(new Route(this.rechercheVille("Little Rock"), this.rechercheVille("New Orleans"), "gray"));
+        this.routes.push(new Route(this.rechercheVille("New York"), this.rechercheVille("Washington"), "gray"));
+      }
 }
