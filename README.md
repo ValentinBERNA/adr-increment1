@@ -30,14 +30,3 @@ Travail collaboratif :
 
 La principale difficulté a été l'adaptation d'un affichage graphique Java à une version JavaScript sans framework. En particulier, pour rendre lisible les objets (États, Villes, Routes) dans le DOM sans moteur graphique, on a été obligés de simplifier l'affichage.
 
-
-
-## Lien GitHub
-
-[Lien vers le dépôt GitHub](https://github.com/votre-utilisateur/nom-du-repo) *(à compléter)*
-
-
-
-## Lien HackMD
-
-[Lien vers ce README sur HackMD](https://hackmd.io/) *(à compléter)*
