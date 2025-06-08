@@ -7,7 +7,7 @@
 - `Route.js` : relie deux villes avec une couleur. Contient les méthodes pour calculer la longueur et les points associés.
 - `Plateau.js` : initialise les listes d’états, de villes, et de routes du jeu. Permet de rechercher une ville par son nom.
 - `Jeu.js` : contient la logique principale de création du plateau et d’affichage dans le DOM (et console).
-- `index.html` : intègre les scripts JavaScript et teste le code.
+- `index.html` : intègre les scripts JavaScript et teste le code (nous avons eu quelques problèmes pour faire apparaître l'interface graphique, y a de la redondance dans notre code).
 - `README.md` : doc du projet.
 
 
